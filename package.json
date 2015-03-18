@@ -1,0 +1,24 @@
+{
+  "name": "mm-debug",
+  "version": "0.0.1",
+  "description": "debug express middleware for meep-meep",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meep-meep/debug.git"
+  },
+  "keywords": [
+    "test",
+    "debug",
+    "meep-meep"
+  ],
+  "author": "Joachim Revol-Tissot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meep-meep/debug/issues"
+  },
+  "homepage": "https://github.com/meep-meep/debug"
+}

@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/meep-meep/debug/issues"
   },
-  "homepage": "https://github.com/meep-meep/debug"
+  "homepage": "https://github.com/meep-meep/debug",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }

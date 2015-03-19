@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/meep-meep/debug",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "rsvp": "^3.0.17"
   }
 }
